@@ -1,0 +1,37 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Google credentials file (keep this private)
+protean-mind-439314-i5-c5f38a9f7b72.json
+
+# Logs
+*.log
+
+# Python dependency management
+*.egg-info/
+dist/
+build/
+
+# Node modules (if you're using any)
+node_modules/
+
+# Other
+*.swp
+*.swo
